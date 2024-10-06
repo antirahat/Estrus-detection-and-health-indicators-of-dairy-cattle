@@ -7,3 +7,6 @@ This repository contains information regarding that.
 For movement capture we used Arduino nano, MPU6050, BLE (Bluetooth with low energy)
 
 For sending it over cloud we using raspberry pi zero 2 w and hosted mqtt server on it.
+
+'''bash
+sudo apt update && sudo apt upgrade
